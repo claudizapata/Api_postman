@@ -1,4 +1,4 @@
-//EL CONTROLADOR va a tomar datos, y los va a devolver
+//EL CONTROLADOR va a tomar datos, y los va a devolver a la petición
 //Son los que gestionan las solicitudes HTTP y responden la petición 
 
 //0000 En el CONTROLADOR tengo que llamar al SERVICIO para que me dé los datos  0000

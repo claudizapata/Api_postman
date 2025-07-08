@@ -1,5 +1,5 @@
 # Api_FigurasColeccion
-
+Peticiones:
 Módulo GET:
 http://localhost:3000/api/products/search?name=Dos 2&category=comestible
 

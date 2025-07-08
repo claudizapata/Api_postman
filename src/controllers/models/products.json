@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Caballero Medieval",
+        "descripción": "Guerrero de las Cruzadas, expediciones militares",
+        "precio": 15,
+        "categories": ["guerrero", "edad media"]
+    },
+    {
+        "id": 2,
+        "name":"Armadura italiana",
+        "descripción": "Uniforme utilizado por guerreros italianos",
+        "precio": 20,
+        "categories":["guerra", "vestimenta"]
+    },
+    {
+        "id": 3,
+        "name": "Vikingo",
+        "descripción": "Personaje de la antigua inglaterra",
+        "precio": 30,
+        "categories": ["vestimenta", "edad media"]
+    },
+    {
+        "id": 4,
+        "name": "Granadero Alemán",
+        "descripción": "Vestimenta de la Segunda Guerra Mundial",
+        "precio": 90,
+        "categories": ["vestimenta", "guerrero"]
+    },
+    {
+        "id": 5,
+        "name": "Snaiper Alemán",
+        "descripción": "Uniforme utilizado en la campaña de Napoleón en 1812 ",
+        "precio": 90,
+        "categories": ["guerrero", "vestimenta"]
+    }
+]
